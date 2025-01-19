@@ -6,7 +6,7 @@ categories: [ETC, Review]
 tags: [MiniProject]
 ---
 
-GitHub [MiniProject](https://github.com/yeonjaeman/miniproject)
+GitHub [MiniProject](https://github.com/YeonDoIt/miniproject)
 
 한달 동안 공부한 JAVA와 MySQL을 이용해 팀원 5명과 함께 미니프로젝트를 진행했다.   
 

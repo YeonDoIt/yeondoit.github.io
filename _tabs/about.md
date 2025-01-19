@@ -12,11 +12,11 @@ duswo5170@gmail.com
 
 ### GitHub
 
-[https://github.com/YeonjaeMan](https://github.com/Yeonjaeman)
+[https://github.com/YeonDoIt](https://github.com/YeonDoIt)
 
 ### Blog
 
-[yeonjaeman.github.io](https://yeonjaeman.github.io/)
+[YeonDoIt.github.io](https://YeonDoIt.github.io/)
 
 ---
 
